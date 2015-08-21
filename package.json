@@ -1,0 +1,25 @@
+{
+  "name": "eqne",
+  "version": "0.0.1",
+  "description": "equal/not equal - functional pendants for javascript's === operator.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvhenten/eqne.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvhenten/eqne/issues"
+  },
+  "homepage": "https://github.com/mvhenten/eqne",
+  "devDependencies": {
+    "tape": "^4.2.0"
+  }
+}
