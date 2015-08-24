@@ -1,6 +1,8 @@
 # eqne
 equal/not equal - functional pendants for javascript's === operator.
 
+[![Build Status](https://drone.io/github.com/mvhenten/eqne/status.png)](https://drone.io/github.com/mvhenten/eqne/latest)
+
 ## Install
 
 ```bash
