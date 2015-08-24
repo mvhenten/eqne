@@ -21,5 +21,8 @@
   "homepage": "https://github.com/mvhenten/eqne",
   "devDependencies": {
     "tape": "^4.2.0"
+  },
+  "dependencies": {
+    "sliced": "^1.0.1"
   }
 }
